@@ -1,3 +1,0 @@
-# cj
-
-Cj's Portfolio

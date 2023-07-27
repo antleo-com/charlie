@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Charlie Writer</title>
+    <link href="https://charlie.antleo.com/feed.xml" rel="self" />
+    <link href="https://charlie.antleo.com" />
+    <updated>1970-01-01T05:30:00+05:30</updated>
+    <author>
+        <name>Charlie</name>
+    </author>
+    <id>https://charlie.antleo.com</id>
+
+</feed>
