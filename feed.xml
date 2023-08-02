@@ -3,22 +3,31 @@
     <title>Charlie Writer</title>
     <link href="https://charlie.antleo.com/feed.xml" rel="self" />
     <link href="https://charlie.antleo.com" />
-    <updated>2023-07-27T11:48:20+05:30</updated>
+    <updated>2023-08-02T11:30:06+05:30</updated>
     <author>
         <name>Charlie</name>
     </author>
     <id>https://charlie.antleo.com</id>
 
     <entry>
-        <title>Home</title>
+        <title>....</title>
         <author>
             <name>Charlie</name>
         </author>
-        <link href="https://charlie.antleo.com/home.html"/>
-        <id>https://charlie.antleo.com/home.html</id>
+        <link href="https://charlie.antleo.com/home/"/>
+        <id>https://charlie.antleo.com/home/</id>
 
-        <updated>2023-07-27T11:48:20+05:30</updated>
-            <summary></summary>
-        <content></content>
+        <updated>2023-08-02T11:30:06+05:30</updated>
+            <summary>
+                <![CDATA[
+                    About Hi! I'm Charlie an experienced, freelance marketing communications strategist/writer. Click here to browse through some of my portfolio samples or read on below for details on my experience history.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h1>About </h1>
+<p>Hi! I'm Charlie an experienced, freelance marketing communications strategist/writer.  Click here to browse through some of my portfolio samples or read on below for details on my experience history.</p>
+            ]]>
+        </content>
     </entry>
 </feed>
