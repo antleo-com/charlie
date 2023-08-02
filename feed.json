@@ -1,6 +1,6 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "Charlie Writer",
+    "title": "Charlie Joseph",
     "description": "",
     "home_page_url": "https://charlie.antleo.com",
     "feed_url": "https://charlie.antleo.com/feed.json",
@@ -9,19 +9,5 @@
         "name": "Charlie"
     },
     "items": [
-        {
-            "id": "https://charlie.antleo.com/home/",
-            "url": "https://charlie.antleo.com/home/",
-            "title": "....",
-            "summary": "About Hi! I'm Charlie an experienced, freelance marketing communications strategist/writer. Click here to browse through some of my portfolio samples or read on below for details on my experience history.",
-            "content_html": "<h1>About </h1>\n<p>Hi! I'm Charlie an experienced, freelance marketing communications strategist/writer.  Click here to browse through some of my portfolio samples or read on below for details on my experience history.</p>",
-            "author": {
-                "name": "Charlie"
-            },
-            "tags": [
-            ],
-            "date_published": "2023-07-27T11:48:20+05:30",
-            "date_modified": "2023-08-02T11:30:06+05:30"
-        }
     ]
 }
