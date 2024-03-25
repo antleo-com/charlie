@@ -9,4 +9,4 @@
 *His ability to think laterally and come up with different perspectives on marketing has been his key qualities. Any work that requires deep and insightful analysis you can count on Charlie to deliver.*
         - Purnima Menon, CEO, TedX
 
-Read the complete testimonials [on Linkedin>>]()
+Read the complete testimonials [on Linkedin>>](www.linkedin.com/in/charliejoseph){:target="blank"}
